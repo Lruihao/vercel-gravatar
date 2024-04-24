@@ -6,7 +6,8 @@ const allowedReferrers = [
   "localhost",
 ];
 
-const upstream = "www.gravatar.com";
+// www.gravatar.com 镜中镜
+const upstream = "gravatar.loli.net";
 
 /**
  * whether the hostname is allowed
